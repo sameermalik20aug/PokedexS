@@ -1,4 +1,4 @@
-package com.bumos.vgvee.pokedexs;
+package com.example.hp.lesson10;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.bumos.vgvee.pokedexs", appContext.getPackageName());
+        assertEquals("com.example.hp.lesson10", appContext.getPackageName());
     }
 }

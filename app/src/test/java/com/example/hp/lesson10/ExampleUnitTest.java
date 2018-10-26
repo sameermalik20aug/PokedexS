@@ -1,4 +1,4 @@
-package com.bumos.vgvee.pokedexs;
+package com.example.hp.lesson10;
 
 import org.junit.Test;
 
